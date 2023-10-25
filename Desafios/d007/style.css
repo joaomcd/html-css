@@ -72,9 +72,21 @@ section.image > p {
     background-color: rgba(0, 0, 0, 0.404);
 }
 
+section > p {
+    padding-bottom: 2em;
+}
+
 footer {
     background-color: black;
     text-align: center;
     color: white;
     padding: 10px;
+}
+
+section#img01 {
+
+}
+
+section#img02 {
+    
 }
